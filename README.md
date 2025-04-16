@@ -1,0 +1,1 @@
+# MohithVKrishnam--Forest-Fire-Detection-using-Deep-Learning_Final_Submission
