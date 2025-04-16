@@ -1,4 +1,4 @@
-# MohithVKrishnam--Forest-Fire-Detection-using-Deep-Learning_Final_Submission
+# Forest-Fire-Detection-using-Deep-Learning_Final_Submission
 🌲🔥 Forest Fire Detection using Deep Learning This project focuses on detecting forest fires using deep learning techniques. By leveraging convolutional neural networks (CNNs), the model classifies images to distinguish between fire and non-fire scenarios, helping in early fire detection and prevention.
 
 🚀 Features Utilizes CNN models for image classification
